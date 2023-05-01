@@ -2,6 +2,7 @@
 
 Presta Tandas - is an online lonaning platform tool for people looking to join or run a Tanda. 
 
+[Preview live website](http://prestatanda.com/)
 
 ## What is it: 
 
